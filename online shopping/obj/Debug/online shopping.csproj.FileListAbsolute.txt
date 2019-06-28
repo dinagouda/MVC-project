@@ -1,0 +1,154 @@
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\online shopping.dll.config
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\online shopping.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\online shopping.pdb
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\csc.exe
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\csc.exe.config
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\csc.rsp
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\csi.exe
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\csi.exe.config
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\csi.rsp
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.AppContext.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Collections.Immutable.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Console.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Diagnostics.Process.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.IO.Compression.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.IO.FileSystem.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.IO.Pipes.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Reflection.Metadata.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Security.AccessControl.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Security.Claims.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Security.Principal.Windows.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Threading.Thread.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.ValueTuple.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Xml.XmlDocument.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Xml.XPath.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\vbc.exe
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\vbc.exe.config
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\vbc.rsp
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\VBCSCompiler.exe
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\VBCSCompiler.exe.config
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\Microsoft.Web.Infrastructure.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Helpers.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Mvc.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Razor.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Webpages.Deployment.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Webpages.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Webpages.Razor.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Razor.xml
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Webpages.xml
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Webpages.Deployment.xml
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Webpages.Razor.xml
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Helpers.xml
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Mvc.xml
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\obj\Debug\online shopping.csprojAssemblyReference.cache
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\obj\Debug\online shopping.csproj.CoreCompileInputs.cache
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\obj\Debug\online shopping.csproj.CopyComplete
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\obj\Debug\online shopping.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\obj\Debug\online shopping.pdb
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\EntityFramework.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\EntityFramework.SqlServer.dll
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\EntityFramework.xml
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\bin\EntityFramework.SqlServer.xml
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\obj\Debug\online_shopping.Migrations.first.resources
+E:\recov\Recovered data 05-28 14_49_07\ (F)\iti\MVC\Project\online shopping\online shopping\obj\Debug\online shopping.csproj.GenerateResource.cache
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\online shopping.dll.config
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\online shopping.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\online shopping.pdb
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\csc.exe
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\csc.exe.config
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\csc.rsp
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\csi.exe
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\csi.exe.config
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\csi.rsp
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.AppContext.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Collections.Immutable.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Console.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Diagnostics.Process.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.IO.Compression.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.IO.FileSystem.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.IO.Pipes.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Reflection.Metadata.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Security.AccessControl.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Security.Claims.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Security.Principal.Windows.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Threading.Thread.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.ValueTuple.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Xml.XmlDocument.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Xml.XPath.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\vbc.exe
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\vbc.exe.config
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\vbc.rsp
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\VBCSCompiler.exe
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\roslyn\VBCSCompiler.exe.config
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\EntityFramework.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\EntityFramework.SqlServer.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\Microsoft.Web.Infrastructure.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Helpers.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Mvc.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Razor.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Webpages.Deployment.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Webpages.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Webpages.Razor.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\EntityFramework.xml
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\EntityFramework.SqlServer.xml
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Razor.xml
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Webpages.xml
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Webpages.Deployment.xml
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Webpages.Razor.xml
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Helpers.xml
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\System.Web.Mvc.xml
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\obj\Debug\online shopping.csprojAssemblyReference.cache
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\obj\Debug\online_shopping.Migrations.first.resources
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\obj\Debug\online shopping.csproj.GenerateResource.cache
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\obj\Debug\online shopping.csproj.CoreCompileInputs.cache
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\obj\Debug\online shopping.csproj.CopyComplete
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\obj\Debug\online shopping.dll
+E:\recov\Recovered data 05-28 14_49_07\(F)\iti\MVC\Project\online shopping\online shopping\obj\Debug\online shopping.pdb

@@ -1,0 +1,67 @@
+﻿@model List<online_shopping.Models.product>
+@{
+    ViewBag.Title = "home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2> Products </h2>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="~/Content/styles.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body id="index">
+
+
+    <script type="text/javascript">
+        var clicks = 0;
+        function onClick() {
+            clicks += 1;
+            document.getElementById("clicks").innerHTML = clicks;
+        };
+    </script>
+
+
+
+    @foreach (var item in Model)
+    {
+
+
+        <div class="product">
+            <h2>@item.Productname</h2>
+            <img src="https://cdn0.iconfinder.com/data/icons/education-flat-7/128/21_Apple-512.png" alt="">
+            <h3>
+                Price:
+                <span>@item.productprice</span>
+            </h3>
+
+
+            <h3>
+                Description:
+                <span>@item.productdesc</span>
+            </h3>
+            <button id="apple" type="button" class="AddToCart" onClick="onClick()">Add to Cart</button>
+
+        </div>
+
+
+
+    }
+
+
+
+    <p1>orders: <a id="clicks">0</a></p1>
+
+
+
+
+
+
+</body>
+</html>
+
+
